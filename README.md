@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nshpiter
-- 👀 I’m interested in play basketball
+- 👀 I’m interested in play badminton
 - 🌱 I’m currently learning computer
 - 📫 How to reach me QQ
 - 😄 Pronouns: Chinese
