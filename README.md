@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nshpiter
 - 👀 I’m interested in play badminton
 - 🌱 I’m currently learning computer
-- 📫 How to reach me QQ
+- 📫 How to reach me QQ:909727715
 - 😄 Pronouns: Chinese
 - ⚡ Fun fact: learn new things
 
