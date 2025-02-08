@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning **Cyber Space,C and python**
-- 📫 How to reach me **niepiter6@gmail.com**
+- 📫 How to reach me **909727715@qq.com**
 - 📝 I regularly write articles on [https://nsh.asia](https://nsh.asia)
 - ⚡ Fun fact **Learn new knowledge, such as AI and web**
 
