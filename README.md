@@ -11,9 +11,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/niepiter6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niepiter6" height="30" width="40" /></a>
-<a href="https://kaggle.com/npiter1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="npiter1" height="30" width="40" /></a>
+  <a href="https://twitter.com/niepiter6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niepiter6" height="30" width="40" /></a>
+  <a href="https://kaggle.com/npiter1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="npiter1" height="30" width="40" /></a>
+  <a href="https://nsh.asia/"><img align="center" src="https://nsh.asia/favicon.ico" alt="Blog" height="30" width="30" /></a>
 </p>
+
+
+
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
