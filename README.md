@@ -17,6 +17,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Web 14 [FSCTF 2023]巴巴托斯！](https://nsh.asia/2025/01/12/fsctf-2023%e5%b7%b4%e5%b7%b4%e6%89%98%e6%96%af%ef%bc%81/)
+- [Web 13 [GXYCTF 2019]Ping Ping Ping](https://nsh.asia/2025/01/11/gxyctf-2019ping-ping-ping/)
+- [Web 12 [BJDCTF 2020]ZJCTF，不过如此](https://nsh.asia/2025/01/10/web-12-bjdctf-2020zjctf%ef%bc%8c%e4%b8%8d%e8%bf%87%e5%a6%82%e6%ad%a4/)
+- [[SWPU 2019]神奇的二维码](https://nsh.asia/2024/12/09/swpu-2019%e7%a5%9e%e5%a5%87%e7%9a%84%e4%ba%8c%e7%bb%b4%e7%a0%81/)
+- [Web 10 [SWPUCTF 2021 新生赛]easy_md5](https://nsh.asia/2024/12/09/web-10-swpuctf-2021-%e6%96%b0%e7%94%9f%e8%b5%9beasy_md5/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
