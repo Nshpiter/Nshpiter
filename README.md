@@ -12,7 +12,7 @@
 - ⚡ Fun fact: learn new things
 
  
-![](https://raw.githubusercontent.com/Nshpiter/Nshpiter/main/dist/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake-dark.svg)
 
 
 <!---
