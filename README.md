@@ -1,3 +1,9 @@
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Nshpiter" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nshpiter&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
+
 - 👋 Hi, I’m @Nshpiter
 - 👀 I’m interested in play badminton
 - 🌱 I’m currently learning computer
@@ -5,13 +11,7 @@
 - 😄 Pronouns: Chinese
 - ⚡ Fun fact: learn new things
 - 
-<div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Nshpiter" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nshpiter&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
-</div>
-
-![](https://raw.githubusercontent.com/fjqz177/fjqz177/main/dist/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Nshpiter/Nshpiter/main/dist/github-contribution-grid-snake.svg)
 
 
 <!---
