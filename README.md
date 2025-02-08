@@ -13,8 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/niepiter6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niepiter6" height="30" width="40" /></a>
 <a href="https://kaggle.com/npiter1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="npiter1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@niepiter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@niepiter" height="30" width="40" /></a>
-<a href="/https://nsh.asia/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://nsh.asia/feed" height="30" width="40" /></a>
 </p>
 
 📕 &nbsp;**Latest Blog Posts**
