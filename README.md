@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nshpiter</h1>
 <h3 align="center">A passionate student from China</h3>
 
-![1739027211-【哲风壁纸】孤独摇滚-蓝色-compressed](https://cdn.loricloud.cn/2025/02/22/67b988770c5e3.png)
+![picture](https://photo.459122.xyz/i/e9de08f5b8d765cba185e5dee14541a7.jpg)
+
+
 
 
 - 🌱 I’m currently learning **Cyber Space,C and python**
