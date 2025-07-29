@@ -23,11 +23,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [CS61A（Discussion1）](https://npiter.tech/2025/07/29/cs61a%ef%bc%88discussion1%ef%bc%89/)
 - [python-Day3](https://npiter.tech/2025/04/12/python-day3/)
 - [python-Day2](https://npiter.tech/2025/04/09/python-day2/)
 - [python-Day1](https://npiter.tech/2025/04/08/python-day1/)
 - [Gemini多模态尝试](https://npiter.tech/2025/02/22/gemini%e5%a4%9a%e6%a8%a1%e6%80%81%e5%b0%9d%e8%af%95/)
-- [Python 处理 Excel 基础教程：快速求和（by mihoyo）](https://npiter.tech/2025/02/22/python-%e5%a4%84%e7%90%86-excel-%e5%9f%ba%e7%a1%80%e6%95%99%e7%a8%8b%ef%bc%9a%e5%bf%ab%e9%80%9f%e6%b1%82%e5%92%8c%ef%bc%88by-mihoyo%ef%bc%89/)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
