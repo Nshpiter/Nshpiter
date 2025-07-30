@@ -23,7 +23,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [CS61A（Discussion1）](https://npiter.tech/2025/07/29/cs61a%ef%bc%88discussion1%ef%bc%89/)
+- [CS61A（Discussion1）](https://npiter.tech/2025/07/30/cs61a%ef%bc%88discussion1%ef%bc%89/)
 - [python-Day3](https://npiter.tech/2025/04/12/python-day3/)
 - [python-Day2](https://npiter.tech/2025/04/09/python-day2/)
 - [python-Day1](https://npiter.tech/2025/04/08/python-day1/)
