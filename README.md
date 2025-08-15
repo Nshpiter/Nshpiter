@@ -23,7 +23,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [访问一个网址背后的过程？](https://npiter.tech/2025/08/12/%e8%ae%bf%e9%97%ae%e4%b8%80%e4%b8%aa%e7%bd%91%e5%9d%80%e8%83%8c%e5%90%8e%e7%9a%84%e8%bf%87%e7%a8%8b%ef%bc%9f/)
+- [访问一个网址背后的过程？](https://npiter.tech/2025/08/15/%e8%ae%bf%e9%97%ae%e4%b8%80%e4%b8%aa%e7%bd%91%e5%9d%80%e8%83%8c%e5%90%8e%e7%9a%84%e8%bf%87%e7%a8%8b%ef%bc%9f/)
 - [CS61A（Discussion1）](https://npiter.tech/2025/07/30/cs61a%ef%bc%88discussion1%ef%bc%89/)
 - [python-Day3](https://npiter.tech/2025/04/12/python-day3/)
 - [python-Day2](https://npiter.tech/2025/04/09/python-day2/)
