@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Cyber Space,C and python**
 - 📫 How to reach me **909727715@qq.com**
-- 📝 I regularly write articles on [https://npiter.tech](https://npiter.tech)
+- 📝 I regularly write articles on [https://npiter.de](https://npiter.de)
 - ⚡ Fun fact **Learn new knowledge, such as AI and web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://kaggle.com/npiter1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="npiter1" height="30" width="40" /></a>
-  <a href="https://npiter.tech/"><img align="center" src="https://npiter.tech/favicon.ico" alt="Blog" height="30" width="30" /></a>
+  <a href="https://npiter.de/"><img align="center" src="https://npiter.de/favicon.ico" alt="Blog" height="30" width="30" /></a>
 </p>
 
 
