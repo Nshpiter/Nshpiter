@@ -40,6 +40,8 @@
 - [Easyupload 1.0 2.0](https://npiter.de/easyupload-1-0/)
 - [看看ip](https://npiter.de/see-ip/)
 - [访问一个网址背后的过程？](https://npiter.de/%e8%ae%bf%e9%97%ae%e4%b8%80%e4%b8%aa%e7%bd%91%e5%9d%80%e8%83%8c%e5%90%8e%e7%9a%84%e8%bf%87%e7%a8%8b%ef%bc%9f/)
+- [CS61A（Discussion1）](https://npiter.de/cs61a%ef%bc%88discussion1%ef%bc%89/)
+- [python-Day3](https://npiter.de/python-day3/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
