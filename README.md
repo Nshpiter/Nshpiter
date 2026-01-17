@@ -22,13 +22,7 @@
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://kaggle.com/npiter1" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" style="vertical-align:middle" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://npiter.de/" target="blank">
-    <img src="https://npiter.de/favicon.ico" alt="Blog" height="28" style="vertical-align:middle" />
-  </a>
+  <a href="https://kaggle.com/npiter1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" style="vertical-align:middle" /></a>&nbsp;&nbsp;&nbsp;<a href="https://npiter.de/" target="blank"><img src="https://npiter.de/favicon.ico" alt="Blog" height="26" style="vertical-align:middle" /></a>
 </p>
 
 <br/>
@@ -45,17 +39,10 @@
 <br/>
 
 ### 📊 Github Statistics
+<!-- 彻底舍弃 table，改用 div 布局，通过 height 强制对齐 -->
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="175px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nshpiter&show_icons=true&theme=radical&hide_border=true" />
-      </td>
-      <td>
-        <img height="175px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nshpiter&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nshpiter&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nshpiter&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
 
 <br/>
