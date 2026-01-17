@@ -29,22 +29,22 @@
 - [python-Day3](https://npiter.de/python-day3/)
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
-
 <div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Nshpiter" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nshpiter&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=radical&hide_border=true" alt="Contribution Streak" />
+  <br><br>
 </div>
 
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake.svg">
+<div align="center">
+  <br>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Nshpiter&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nshpiter&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  <br><br>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<!---
-Nshpiter/Nshpiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
