@@ -35,9 +35,9 @@
 
 <div align="center">
   <span>&emsp;&emsp;</span>
-  <img height="170px" src="https://github-readme-stats-ten-umber-40.vercel.app/?username=Nshpiter&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="170px" src="https://gh-stats-gen.vercel.app/?username=Nshpiter&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
   <span>&emsp;&emsp;</span>
-  <img height="170px" src="https://github-readme-stats-ten-umber-40.vercel.app/?username=Nshpiter&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img height="170px" src="https://gh-stats-gen.vercel.app/?username=Nshpiter&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
   <span>&emsp;&emsp;</span>
 </div>
 
