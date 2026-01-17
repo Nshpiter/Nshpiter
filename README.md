@@ -1,24 +1,26 @@
-<h1 align="center">Hi 👋, I'm Nshpiter</h1>
+<h1 align="center">Hi 👋, I'm piter</h1>
 <h3 align="center">A passionate student from China</h3>
 
-![picture](https://photo.459122.xyz/i/e9de08f5b8d765cba185e5dee14541a7.jpg)
+<!-- 大图保持 -->
+<p align="center">
+  <img src="https://photo.459122.xyz/i/e9de08f5b8d765cba185e5dee14541a7.jpg" width="100%" alt="picture" />
+</p>
 
-
-
-
-- 🌱 I’m currently learning **Cyber Space,C and python**
+- 🌱 I’m currently learning **Cyber Space, C and python**
 - 📫 How to reach me **npiter1@Outlook.com**
 - 📝 I regularly write articles on [https://npiter.de](https://npiter.de)
 - ⚡ Fun fact **Learn new knowledge, such as AI and web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://kaggle.com/npiter1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="npiter1" height="30" width="40" /></a>
-  <a href="https://npiter.de/"><img align="center" src="https://npiter.de/favicon.ico" alt="Blog" height="30" width="30" /></a>
+  <!-- 还原 Kaggle 图标，统一高度 -->
+  <a href="https://kaggle.com/npiter1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="npiter1" height="32" /></a>
+  &nbsp;&nbsp;
+  <!-- 还原博客 Favicon 图标，统一高度 -->
+  <a href="https://npiter.de/" target="blank"><img align="center" src="https://npiter.de/favicon.ico" alt="Blog" height="32" /></a>
 </p>
 
-
-
+<br/>
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -29,20 +31,22 @@
 - [python-Day3](https://npiter.de/python-day3/)
 <!-- BLOG-POST-LIST:END -->
 
+<br/>
+
+<!-- Stats 卡片对齐优化 -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" alt="GitHub Streak" />
+  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nshpiter&show_icons=true&theme=radical&hide_border=true" />
+  &nbsp;&nbsp;
+  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nshpiter&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <span>&emsp;&emsp;</span>
-  <img height="170px" src="https://gh-stats-gen.vercel.app/?username=Nshpiter&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <span>&emsp;&emsp;</span>
-  <img height="170px" src="https://gh-stats-gen.vercel.app/?username=Nshpiter&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-  <span>&emsp;&emsp;</span>
-</div>
+<br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- 贪吃蛇 -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
