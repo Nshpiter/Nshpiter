@@ -1,28 +1,39 @@
-<h1 align="center">Hi 👋, I'm piter</h1>
-<h3 align="center">A passionate student from China</h3>
+<div align="center">
+  <h1>Hi 👋, I'm piter</h1>
+  <p>A passionate student from China</p>
+  <img src="https://photo.459122.xyz/i/e9de08f5b8d765cba185e5dee14541a7.jpg" width="100%" style="border-radius: 8px;" />
+</div>
 
-<!-- 大图保持 -->
-<p align="center">
-  <img src="https://photo.459122.xyz/i/e9de08f5b8d765cba185e5dee14541a7.jpg" width="100%" alt="picture" />
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Cyber_Space-000000?style=flat-square&logo=ghostery&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="24" />
 </p>
 
+### 👤 About Me
 - 🌱 I’m currently learning **Cyber Space, C and python**
 - 📫 How to reach me **npiter1@Outlook.com**
 - 📝 I regularly write articles on [https://npiter.de](https://npiter.de)
 - ⚡ Fun fact **Learn new knowledge, such as AI and web**
 
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with me
 <p align="left">
-  <!-- 还原 Kaggle 图标，统一高度 -->
-  <a href="https://kaggle.com/npiter1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="npiter1" height="32" /></a>
+  <a href="https://kaggle.com/npiter1" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" style="vertical-align:middle" />
+  </a>
   &nbsp;&nbsp;
-  <!-- 还原博客 Favicon 图标，统一高度 -->
-  <a href="https://npiter.de/" target="blank"><img align="center" src="https://npiter.de/favicon.ico" alt="Blog" height="32" /></a>
+  <a href="https://npiter.de/" target="blank">
+    <img src="https://npiter.de/favicon.ico" alt="Blog" height="28" style="vertical-align:middle" />
+  </a>
 </p>
 
 <br/>
 
-📕 &nbsp;**Latest Blog Posts**
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Easyupload 1.0 2.0](https://npiter.de/easyupload-1-0/)
 - [看看ip](https://npiter.de/see-ip/)
@@ -33,16 +44,23 @@
 
 <br/>
 
-<!-- Stats 卡片对齐优化 -->
+### 📊 Github Statistics
 <div align="center">
-  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nshpiter&show_icons=true&theme=radical&hide_border=true" />
-  &nbsp;&nbsp;
-  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nshpiter&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <table border="0">
+    <tr>
+      <td>
+        <img height="175px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nshpiter&show_icons=true&theme=radical&hide_border=true" />
+      </td>
+      <td>
+        <img height="175px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nshpiter&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<!-- 贪吃蛇 -->
+### 🐍 Contribution Activity
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nshpiter/Nshpiter/output/github-contribution-grid-snake-dark.svg">
