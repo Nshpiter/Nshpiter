@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning **Cyber Space,C and python**
-- 📫 How to reach me **909727715@qq.com**
+- 📫 How to reach me **npiter1@Outlook.com**
 - 📝 I regularly write articles on [https://npiter.de](https://npiter.de)
 - ⚡ Fun fact **Learn new knowledge, such as AI and web**
 
