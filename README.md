@@ -37,11 +37,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Easyupload 1.0 2.0](https://npiter.de/easyupload-1-0/)
-- [看看ip](https://npiter.de/see-ip/)
-- [访问一个网址背后的过程？](https://npiter.de/%e8%ae%bf%e9%97%ae%e4%b8%80%e4%b8%aa%e7%bd%91%e5%9d%80%e8%83%8c%e5%90%8e%e7%9a%84%e8%bf%87%e7%a8%8b%ef%bc%9f/)
-- [CS61A（Discussion1）](https://npiter.de/cs61a%ef%bc%88discussion1%ef%bc%89/)
-- [python-Day3](https://npiter.de/python-day3/)
+- [post-the-get](https://npiter.de/post-the-get/)
+- [cookies](https://npiter.de/cookies/)
+- [源代码](https://npiter.de/%e6%ba%90%e4%bb%a3%e7%a0%81/)
+- [网站被黑](https://npiter.de/%e7%bd%91%e7%ab%99%e8%a2%ab%e9%bb%91/)
+- [秋名山车神](https://npiter.de/%e7%a7%8b%e5%90%8d%e5%b1%b1%e8%bd%a6%e7%a5%9e/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
