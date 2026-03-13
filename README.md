@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm piter</h1>
   <p><b>Cyber Security Enthusiast | C & Python Developer</b></p>
-  <img src="https://photo.459122.xyz/i/e9de08f5b8d765cba185e5dee14541a7.jpg" width="100%" style="border-radius: 8px;" />
+  <img src="https://pic.npiter.de/file/1743776724959_20250308_141126_4.jpg" width="100%" style="border-radius: 8px;" />
 </div>
 
 ---
