@@ -37,11 +37,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [随笔与思考（26-5.24）](https://npiter.de/%e9%9a%8f%e7%ac%94%e4%b8%8e%e6%80%9d%e8%80%83%ef%bc%8826-5-24%ef%bc%89/)
 - [post-the-get](https://npiter.de/post-the-get/)
 - [cookies](https://npiter.de/cookies/)
 - [源代码](https://npiter.de/%e6%ba%90%e4%bb%a3%e7%a0%81/)
 - [网站被黑](https://npiter.de/%e7%bd%91%e7%ab%99%e8%a2%ab%e9%bb%91/)
-- [秋名山车神](https://npiter.de/%e7%a7%8b%e5%90%8d%e5%b1%b1%e8%bd%a6%e7%a5%9e/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
