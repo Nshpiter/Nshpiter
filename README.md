@@ -113,9 +113,9 @@
 
 <p align="center">
   <img
+    src="./profile-3d-contrib/profile-night-view.svg"
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Nshpiter&bg_color=141321&color=a9fef7&title_color=fe428e&line=fe428e&point=f8d847&area_color=fe428e&area=true&hide_border=true&radius=6"
-    alt="Nshpiter's Contribution Graph"
+    alt="Nshpiter's 3D Contribution Calendar"
   />
 </p>
 
